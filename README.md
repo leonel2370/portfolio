@@ -1,1 +1,1 @@
-# projectJavascriptVanilla
+# README
